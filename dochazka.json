@@ -1,0 +1,72 @@
+[
+    {
+        "číslo čipu": "1001",
+        "zaměstnanec": "Adam Novák",
+        "počet_dní": 5,
+        "celkem_hodin": 42.03,
+        "průměrná_směna": 8.41
+    },
+    {
+        "číslo čipu": "1002",
+        "zaměstnanec": "Barbora Svobodová",
+        "počet_dní": 5,
+        "celkem_hodin": 43.82,
+        "průměrná_směna": 8.76
+    },
+    {
+        "číslo čipu": "1003",
+        "zaměstnanec": "Cyril Dvořák",
+        "počet_dní": 5,
+        "celkem_hodin": 40.18,
+        "průměrná_směna": 8.04
+    },
+    {
+        "číslo čipu": "1004",
+        "zaměstnanec": "Daniela Procházková",
+        "počet_dní": 5,
+        "celkem_hodin": 39.57,
+        "průměrná_směna": 7.91
+    },
+    {
+        "číslo čipu": "1005",
+        "zaměstnanec": "Eva Černá",
+        "počet_dní": 5,
+        "celkem_hodin": 41.12,
+        "průměrná_směna": 8.22
+    },
+    {
+        "číslo čipu": "1006",
+        "zaměstnanec": "Filip Kučera",
+        "počet_dní": 5,
+        "celkem_hodin": 43.12,
+        "průměrná_směna": 8.62
+    },
+    {
+        "číslo čipu": "1007",
+        "zaměstnanec": "Gabriela Horáková",
+        "počet_dní": 5,
+        "celkem_hodin": 40.68,
+        "průměrná_směna": 8.14
+    },
+    {
+        "číslo čipu": "1008",
+        "zaměstnanec": "Hynek Veselý",
+        "počet_dní": 5,
+        "celkem_hodin": 43.1,
+        "průměrná_směna": 8.62
+    },
+    {
+        "číslo čipu": "1009",
+        "zaměstnanec": "Ivana Němcová",
+        "počet_dní": 5,
+        "celkem_hodin": 41.98,
+        "průměrná_směna": 8.4
+    },
+    {
+        "číslo čipu": "1010",
+        "zaměstnanec": "Jakub Pokorný",
+        "počet_dní": 5,
+        "celkem_hodin": 41.3,
+        "průměrná_směna": 8.26
+    }
+]
